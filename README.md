@@ -17,9 +17,12 @@ Messages outside this set channel wouldn't be broadcasted, it was stated multipl
 It was maintained by everyone at "Shoutbox Development HQ", we had a dedicated staff team to ensure it was always a Respectful and Peaceful safe-zone, especially since the age rating is 13+ years old on Discord, we had to ensure that the enviroment was Kid-Friendly.
 
 ## Who was the Staff?
-In order by power:
-###### *Developers*
-Pika, Thunder
+*In order by power:*
+
+###### *Lead Developer*
+Pika
+###### *Co Developer & Hosting*
+Thunder
 ###### *Community Managers*
 Femto, Scxng
 ###### *Administrators*
