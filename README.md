@@ -22,6 +22,15 @@ And to release the **FULL** Shoutbox Discord Bot framework/src code.
 
 *Source code released at a later date*
 
+## Why are you releasing the source code to this project?
+I, Pika, am releasing this source for the simple fact that it caused too many issues, both personal to me and the fact that other people just couldn't follow simple rules.
+
+Its being released mainly for ruining my happiness and destroying my IRL (In Real Life),
+By that I mean, my love life, the girl who constantly inspired me everytime I made anything such as this bot.
+
+All my other projects are to remain PRIVATE and anyone who leaks any of the other projects I developed or had hosted on their server, is subjected to a DMCA Claim as they are under my ownership and I have not given anyone permission to distribute those sources.
+
+
 ## What did you achieve on this bot?
 We managed to have 50-80 actual active Discord Servers (Guilds) communicating throughout our project,
 We had 250 guilds known on the bot with over 300+ active communicating users through out our Global Chatting Network.
