@@ -16,6 +16,16 @@ Messages outside this set channel wouldn't be broadcasted, it was stated multipl
 ## Who maintained Shoutbox?
 It was maintained by everyone at "Shoutbox Development HQ", we had a dedicated staff team to ensure it was always a Respectful and Peaceful safe-zone, especially since the age rating is 13+ years old on Discord, we had to ensure that the enviroment was Kid-Friendly.
 
+## What is this purpose of this repo?
+The purpose is to leave our mark upon this earth on what we set out to achieve upon this Project,
+And to release the **FULL** Shoutbox Discord Bot framework/src code.
+
+*Source code released at a later date*
+
+## What did you achieve on this bot?
+We managed to have 50-80 actual active Discord Servers (Guilds) communicating throughout our project,
+We had 250 guilds known on the bot with over 300+ active communicating users through out our Global Chatting Network.
+
 ## Who was the Staff?
 *In order by power:*
 
