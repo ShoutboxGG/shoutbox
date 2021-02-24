@@ -50,3 +50,15 @@ Medves
 Dragon
 ###### *Support Staff*
 Disciple
+
+
+## SHOUTouts to:
+###### Cottage Cove
+###### Wolfies Services
+###### Starland & their friends
+###### To everyone else who contributed in SHOUTBOXs "shorthanded" success.
+###### and most of all Thank You Misty (Harley) for putting up with me and the stress that came from the bot right until the end.
+
+## THIS IS THE __OFFICIAL__ END OF SHOUTBOX
+###### *ALL IMAGES, LOGOS AND EVERYTHING BESIDES THE CODE ITSELF ARE STILL COPYRIGHTED AND YOU WILL RECIEVE A DMCA CLAIM AGAINST YOU IF YOU ARE CAUGHT USING, REPRODUCING, AND/OR DISTRIBUTING ANY OF THE COPYRIGHTED CONTENT.*
+
