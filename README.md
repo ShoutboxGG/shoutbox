@@ -53,7 +53,7 @@ Disciple
 
 
 ## SHOUTouts to:
-###### Cottage Cove
+###### [⋆ Cottage Cove ⋆ ](https://discord.me/cottagecove)
 ###### Wolfies Services
 ###### Starland & their friends
 ###### To everyone else who contributed in SHOUTBOXs "shorthanded" success.
